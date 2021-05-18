@@ -1,3 +1,33 @@
+# Todo List
+
+---
+
+
+> Mock out the UI for the app using bootstrap or tailwind. Get the sections and the boxes in place. Maybe have the responsiveness in place.
+
+> Create the About, Contact and Todos components in your application.
+
+> Add the react router library.
+
+> Make sure you are able to click and switch between the pages on the component.
+
+> Finally start working on the Todos component. 
+
+> Figure out the data structure for the useState variable that you will use to store the items. [{txt: 'Item One', completed: false}, {txt: 'Item Two', completed: false}, {txt: 'Item Two', completed: false}] OR {'Item text 1': false, 'Item text 2': true, 'Item text 2': false} 
+
+> Add the ability to have the user type in an item and click add.
+
+> Add the item to the list and update the list in the UI. 
+
+> Add the ability to delete items
+
+> Lastly, show the items that are completed/all/active. Make sure the filters work as expected. 
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
